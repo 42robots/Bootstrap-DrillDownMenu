@@ -1,17 +1,9 @@
 /*
- * Mewsoft Bootstrap iPod Style jQuery Drill Down Menu Plugin v1.0
- * Dr. Ahmed Amin Elsheshtawy ahmed@mewsoft.com, Ph.D.
- * Copyright (c) 2015 Mewsoft, www.mewsoft.com
- * https://github.com/mewsoft
- * http://www.mewsoft.com/
  * 
  * Original jquery ui plugin code by:
  * DC jQuery Drill Down Menu - jQuery drill down ipod menu
  * Copyright (c) 2011 Design Chemical
  *
- * Dual licensed under the MIT and GPL licenses:
- * http://www.opensource.org/licenses/mit-license.php
- * http://www.gnu.org/licenses/gpl.html
  *
  */
 
